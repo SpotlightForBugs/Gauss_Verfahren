@@ -45,4 +45,4 @@ Das Programm gibt den folgenden Lösungsvektor zurück:
 [ 1. -2. -2.]
 ```
 
-Das bedeutet, dass die Lösung für das Gleichungssystem x = 1, y = -2 und z = -2 ist.
+Das bedeutet, dass die Lösung für das Gleichungssystem x = -0.06666667, y = 0.60000000 und z = 0.00000000 ist.
