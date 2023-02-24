@@ -1,3 +1,5 @@
+[![wakatime](https://wakatime.com/badge/user/b4602be3-3210-4922-b81d-ba8117864e8f/project/3ca7c904-d298-40bb-9d86-4007f864caad.svg)](https://wakatime.com/badge/user/b4602be3-3210-4922-b81d-ba8117864e8f/project/3ca7c904-d298-40bb-9d86-4007f864caad)
+---
 # Gauss'sches Eliminationsverfahren zur Lösung von Gleichungssystemen
 
 Das Gauss'sche Eliminationsverfahren ist eine numerische Methode zur Lösung von Gleichungssystemen. Es ermöglicht die Lösung von Gleichungssystemen mit beliebig vielen Unbekannten, indem es die Koeffizientenmatrix des Systems durch eine oberdreieckige Matrix ersetzt. Anschließend kann das System durch Rückwärtssubstitution gelöst werden.
